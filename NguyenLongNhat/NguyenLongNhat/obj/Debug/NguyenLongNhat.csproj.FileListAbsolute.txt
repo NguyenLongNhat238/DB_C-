@@ -1,0 +1,9 @@
+D:\NguyenLongNhat\NguyenLongNhat\bin\Debug\NguyenLongNhat.exe.config
+D:\NguyenLongNhat\NguyenLongNhat\bin\Debug\NguyenLongNhat.exe
+D:\NguyenLongNhat\NguyenLongNhat\bin\Debug\NguyenLongNhat.pdb
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.csprojResolveAssemblyReference.cache
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.Form1.resources
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.Properties.Resources.resources
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.csproj.GenerateResource.Cache
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.exe
+D:\NguyenLongNhat\NguyenLongNhat\obj\Debug\NguyenLongNhat.pdb
